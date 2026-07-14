@@ -1,2 +1,4 @@
-# learnfinity-devops
-My Cloud &amp; DevOps learning repository
+learnfinity-devops
+My Cloud & DevOps learning repository
+Git & Bash lab
+
